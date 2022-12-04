@@ -3,9 +3,13 @@
     {
       "id": 1,
       "title": "hello",
-      "description" : "Some random description",
-      "price": 3422,
-    },
+      "description" :"Some description to test",
+      "price": 2123,
+      "image": [
+        "url":"https://urlofimage",
+        "alt":"alt-text",
+      ],
+    }
   ],
   "profile": {
     "name": "typicode"
