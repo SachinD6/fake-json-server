@@ -15,9 +15,7 @@
           "url": "https://urlofimage.com/img-32.jpg",
           "alt": "Alt of image"
       ],
-      // Add more parameters
     },
-    //Add more posts
   ],
   "profile": {
     "name": "typicode"
