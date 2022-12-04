@@ -6,8 +6,10 @@
       "description" :"Some description to test",
       "price": 2123,
       "image": [
+        {
         "url":"https://urlofimage",
         "alt":"alt-text",
+        }
       ],
     }
   ],
