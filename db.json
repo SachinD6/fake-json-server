@@ -2,8 +2,22 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "title": "hello",
+      "description" : "Some random description",
+      "price": 3422,
+      "ratings" : [
+        {
+          "stars" : 4.3,
+          "count" : 32
+        }
+      ],
+      "image": [
+          "url": "https://urlofimage.com/img-32.jpg",
+          "alt": "Alt of image"
+      ],
+      // Add more parameters
+    },
+    //Add more posts
   ],
   "profile": {
     "name": "typicode"
