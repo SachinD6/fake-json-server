@@ -5,13 +5,6 @@
       "title": "hello",
       "description" : "Some random description",
       "price": 3422,
-      "ratings" : [
-        {
-          "stars" : 4.3,
-          "count" : 32
-        }
-      ],
-  
     },
   ],
   "profile": {
