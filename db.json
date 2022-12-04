@@ -11,12 +11,7 @@
           "count" : 32
         }
       ],
-      "image": [
-        {
-          "url": "https://urlofimage.com/img-32.jpg",
-          "alt": "Alt of image"
-        },
-      ],
+  
     },
   ],
   "profile": {
